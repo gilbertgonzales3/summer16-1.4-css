@@ -31,6 +31,29 @@
   width: 60px;
   display: inline-block;
 }
-.sbNews {
-  
+.navLink {
+  display: inline-block;
+  background-color: rgb(177,43,50);
+  width: 245px;
+  height:42px;
+  text-transform: uppercase;
+  border-bottom: rgba(255,255,255,0.4);
+}
+.photographer {
+  width: 1024px;
+  height: 360px;
+  background-image: url(../images/top-image.png);
+  position: relative;
+
+}
+.logo {
+  height: 100%;
+  width: 50%;
+  background-image: url(../images/peralta-logo.png);
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  background-repeat: no-repeat;
+
+
 }
