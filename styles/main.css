@@ -1,1 +1,36 @@
 /* Main StyleSheet*/
+* {
+  box-sizing: border-box;
+}
+.facebook {
+  padding:10px 14px 7px 14px;
+  background-color:rgb(69,89,149);
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+
+}
+.rss {
+  padding:10px 12px 7px 12px;
+  background-color: rgb(203,143,60);
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+}
+.twitter {
+  padding:10px 10px 7px 10px;
+  background-color: rgb(107,142,197);
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+}
+.youtube {
+  padding:10px 12px 7px 11px;
+  background-color: rgb(176,57,49);
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+}
+.sbNews {
+  
+}
