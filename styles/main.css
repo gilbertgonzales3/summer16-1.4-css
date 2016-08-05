@@ -43,7 +43,6 @@ body{
   text-transform: uppercase;
   border-bottom: rgba(255,255,255,0.4);
 }
-
 .photographer {
   width: 1024px;
   height: 360px;
@@ -61,5 +60,36 @@ body{
   top: 20px;
   background-repeat: no-repeat;
 
+
+}
+
+.imageContainer {
+  border: 5px solid rgb(255,255,255);
+  overflow: hidden;
+  display: inline-block;
+}
+
+
+.lanceMountain {
+  height: 220px;
+  width: 330px;
+
+}
+
+.rodneyMullen {
+  height: 220px;
+  width: 330px;
+
+}
+
+.tommyGuerro {
+  height: 470px;
+  width: 326px;
+
+}
+
+.steveCaballero {
+  height: 220px;
+  width: 670px;
 
 }
