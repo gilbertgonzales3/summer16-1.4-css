@@ -4,7 +4,7 @@
 }
 
 body{
-  background-color: rgb(255, 0, 0);
+  background-image:url(../images/bg.jpg);
 }
 .facebook {
   padding:10px 14px 7px 14px;
@@ -61,6 +61,14 @@ body{
   background-repeat: no-repeat;
 
 
+}
+
+.column1of3. .column2of3. .column3of3
+{
+  width: 300px;
+  float: left;
+  margin: 10px;
+  background-color: rgb(255,255,255);
 }
 
 .imageContainer {
