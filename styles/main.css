@@ -72,18 +72,22 @@
 
 }
 .groupContainer {
-
+  font-size: 0;
 }
 .column1of3, .column2of3, .column3of3
  {
   width: 330px;
   height:350px;
-  margin: 10px;
+  margin-right: 10px;
   padding: 5px;
   background-color: #efefef;
   display: inline-block;
+  font-size: 12px;
 }
 
+.column3of3{
+  margin-right: 0;
+}
 .imageContainer {
   border: 5px solid rgb(255,255,255);
   overflow: hidden;
