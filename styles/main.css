@@ -64,7 +64,7 @@ body{
   background-image: url(../images/peralta-logo.png);
   position: absolute;
   left: 40px;
-  top: 75px;
+  top: 20px;
   background-repeat: no-repeat;
 
 
@@ -79,6 +79,7 @@ body{
   padding: 5px;
   background-color: #efefef;}
 
+
 }
 
 .imageContainer {
@@ -86,6 +87,7 @@ body{
   overflow: hidden;
   padding: 5px;
   display: inline-block;
+  position: relative;
 }
 
 
@@ -107,12 +109,12 @@ body{
 
 
 
+
 }
 
 .tommyGuerro {
   height: 470px;
   width: 326px;
-  position:relative;
   right: 100px
   overflow: hidden;
   display: inline-block;
@@ -126,7 +128,7 @@ body{
   width: 670px;
   overflow: hidden;
   display: inline-block;
-  position: absolute;
+
 
 }
 
@@ -134,6 +136,9 @@ body{
   border: 5px solid rgb(255,255,255);
   overflow: hidden;
   display: inline-block;
+  position: absolute;
+  bottom: 0px;
+
 }
 .sk8-1 {
   height: 260px;
