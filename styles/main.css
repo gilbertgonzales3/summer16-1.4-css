@@ -68,6 +68,7 @@ body{
   background-repeat: no-repeat;
 
 
+
 }
 
 .column1of3, .column2of3, .column3of3
@@ -77,7 +78,9 @@ body{
   height:350px;
   margin: 10px;
   padding: 5px;
-  background-color: #efefef;}
+  background-color: #efefef;
+  display: inline-block;
+}
 
 
 }
