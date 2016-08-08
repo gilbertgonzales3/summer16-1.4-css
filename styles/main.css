@@ -3,13 +3,14 @@
   box-sizing: border-box;
 }
 
-body{
+.body{
   background-image:url(../images/bg.jpg);
-  background-size: 75%;
+  background-size: cover;
   background-repeat:no-repeat;
   background-position:center;
-  width: 1200px;
+  width: 1024px;
   margin: 0 auto;
+
 
 
 }
@@ -83,47 +84,40 @@ body{
   display: inline-block;
 }
 
-}
-
 .imageContainer {
   border: 5px solid rgb(255,255,255);
   overflow: hidden;
   padding: 5px;
   display: inline-block;
   position: relative;
+  vertical-align: top;
 }
 
 .lanceMountain {
   height: 220px;
   width: 330px;
   overflow: hidden;
-  display: inline-block;
-
 }
 
 .rodneyMullen {
   height: 220px;
   width: 330px;
   overflow: hidden;
-  display: inline-block;
-
+  margin-bottom: 12px;
+  margin-left: 12px;
 }
 
 .tommyGuerro {
   height: 470px;
   width: 326px;
-  right: 100px
   overflow: hidden;
-  display: inline-block;
-
+  float: right;
 }
 
 .steveCaballero {
   height: 220px;
   width: 670px;
   overflow: hidden;
-  display: inline-block;
-
 }
 .sk8boardContainer {
  }
