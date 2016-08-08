@@ -8,7 +8,7 @@ body{
   background-size: 75%;
   background-repeat:no-repeat;
   background-position:center;
-  width: 960px;
+  width: 1200px;
   margin: 0 auto;
 
 
@@ -70,9 +70,10 @@ body{
 
 
 }
+.groupContainer {
 
+}
 .column1of3, .column2of3, .column3of3
-
  {
   width: 330px;
   height:350px;
@@ -81,7 +82,6 @@ body{
   background-color: #efefef;
   display: inline-block;
 }
-
 
 }
 
@@ -93,14 +93,11 @@ body{
   position: relative;
 }
 
-
 .lanceMountain {
   height: 220px;
   width: 330px;
   overflow: hidden;
   display: inline-block;
-
-
 
 }
 
@@ -109,9 +106,6 @@ body{
   width: 330px;
   overflow: hidden;
   display: inline-block;
-
-
-
 
 }
 
@@ -122,8 +116,6 @@ body{
   overflow: hidden;
   display: inline-block;
 
-
-
 }
 
 .steveCaballero {
@@ -132,61 +124,67 @@ body{
   overflow: hidden;
   display: inline-block;
 
-
 }
-
+.sk8boardContainer {
+ }
 .boardImageContainer {
   border: 5px solid rgb(255,255,255);
   overflow: hidden;
   display: inline-block;
-  position: absolute;
+  position: relative;;
   bottom: 0px;
 
 }
 .sk8-1 {
   height: 260px;
   width: 60px;
-
+  position: absolute;
 }
 
 .sk8-2 {
   height: 260px;
   width: 60px;
-
+  position: absolute;
 }
 .sk8-3 {
   height: 260px;
   width: 60px;
+  position: absolute;
 
 }
 .sk8-4 {
   height: 260px;
   width: 60px;
-
+  position: absolute;
 }
 
 .sk8-5 {
   height: 260px;
   width: 60px;
+  position: absolute;
 
 }
 
 .sk8-6 {
   height: 260px;
   width: 60px;
+  position: absolute;
 
 }
 .sk8-7 {
   height: 260px;
   width: 60px;
+  position: absolute;
 
 }
 .sk8-8 {
   height: 260px;
   width: 60px;
+  position: absolute;
 }
 .sk8-9 {
   height: 260px;
   width: 60px;
+  position: absolute;
 
 }
